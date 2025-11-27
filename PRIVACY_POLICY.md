@@ -33,6 +33,20 @@ When you make in-app purchases:
 - We do not collect or store your payment information
 - Apple's privacy policy governs purchase transactions
 
+### Subscription Information
+
+WalletFlow offers the following auto-renewable subscriptions:
+
+- **Pro Monthly** ($0.99/month) - Unlimited subscriptions, iCloud sync, advanced analytics
+- **Pro Yearly** ($4.99/year) - Same features as Monthly at a discounted rate
+
+**Subscription Terms:**
+- Payment will be charged to your Apple ID account at confirmation of purchase
+- Subscription automatically renews unless cancelled at least 24 hours before the end of the current period
+- Your account will be charged for renewal within 24 hours prior to the end of the current period
+- You can manage and cancel your subscriptions by going to your App Store account settings after purchase
+- Any unused portion of a free trial period will be forfeited when you purchase a subscription
+
 ### Analytics and Diagnostics
 
 WalletFlow does **NOT** collect:
@@ -129,6 +143,20 @@ WalletFlow хранит все данные о подписках локальн
 При совершении покупок в приложении:
 - Транзакции обрабатываются Apple через App Store
 - Мы не собираем и не храним вашу платёжную информацию
+
+#### Информация о подписках
+
+WalletFlow предлагает следующие автообновляемые подписки:
+
+- **Pro Ежемесячно** ($0.99/месяц) - Безлимитные подписки, синхронизация iCloud, расширенная аналитика
+- **Pro Ежегодно** ($4.99/год) - Те же функции со скидкой
+
+**Условия подписки:**
+- Оплата списывается с вашего Apple ID при подтверждении покупки
+- Подписка автоматически продлевается, если не отменить минимум за 24 часа до окончания текущего периода
+- Средства за продление списываются в течение 24 часов до окончания текущего периода
+- Управлять подписками и отменять их можно в настройках App Store
+- Неиспользованная часть бесплатного пробного периода аннулируется при покупке подписки
 
 ### Что мы НЕ собираем
 
